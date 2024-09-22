@@ -1,0 +1,25 @@
+.head {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.logo {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.active {
+    padding-right: 20px;
+}
+
+.design {
+    padding-right: 20px; 
+}
+
+.contact {
+    padding-right: 20px;
+}
+
+.about {
+    padding-right: 20px;
+}
