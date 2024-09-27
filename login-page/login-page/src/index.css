@@ -18,7 +18,8 @@ body {
   align-items: center;  
   min-height: 100vh;
   background:linear-gradient(to left, rgb(255, 54, 154), rgb(67, 196, 247));
-  
+  background-size: cover;
+  background-position: center;
 }
 
 code {
